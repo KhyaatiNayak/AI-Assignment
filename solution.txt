@@ -1,0 +1,150 @@
+
+Yellow Ball appeares at timestamp: 3195 at quadrant: 3
+
+White Ball appeares at timestamp: 6390 at quadrant: 2
+
+White Ball dissapears at timestamp: 8088
+
+Green Ball appeares at timestamp: 10018 at quadrant: 4
+
+Orange Ball appeares at timestamp: 13480 at quadrant: 1
+
+Green Ball dissapears at timestamp: 18839
+
+Orange Ball dissapears at timestamp: 21768
+
+White Ball appeares at timestamp: 7056 at quadrant: 4
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 2
+
+Yellow Ball dissapears at timestamp: 30622
+
+Green Ball appeares at timestamp: 17807 at quadrant: 3
+
+White Ball dissapears at timestamp: 34416
+
+White Ball appeares at timestamp: 7056 at quadrant: 4
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 42738
+
+Yellow Ball dissapears at timestamp: 44601
+
+Green Ball dissapears at timestamp: 47131
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 3
+
+Yellow Ball dissapears at timestamp: 51525
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 3
+
+Orange Ball dissapears at timestamp: 54021
+
+Yellow Ball dissapears at timestamp: 54121
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Green Ball appeares at timestamp: 17807 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 55419
+
+White Ball dissapears at timestamp: 55952
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Green Ball dissapears at timestamp: 56251
+
+Green Ball appeares at timestamp: 17807 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 57483
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 3
+
+Orange Ball dissapears at timestamp: 58981
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Yellow Ball dissapears at timestamp: 59580
+
+Orange Ball dissapears at timestamp: 61177
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 63408
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 64539
+
+Green Ball dissapears at timestamp: 65638
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 1
+
+Yellow Ball dissapears at timestamp: 73060
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 1
+
+Green Ball appeares at timestamp: 17807 at quadrant: 2
+
+Green Ball dissapears at timestamp: 77853
+
+Green Ball appeares at timestamp: 17807 at quadrant: 2
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 4
+
+Green Ball dissapears at timestamp: 79185
+
+Orange Ball dissapears at timestamp: 80549
+
+Yellow Ball dissapears at timestamp: 81182
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 1
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 4
+
+Orange Ball dissapears at timestamp: 82347
+
+White Ball appeares at timestamp: 7056 at quadrant: 3
+
+White Ball dissapears at timestamp: 83645
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 4
+
+Orange Ball dissapears at timestamp: 84677
+
+Yellow Ball dissapears at timestamp: 84810
+
+White Ball appeares at timestamp: 7056 at quadrant: 3
+
+White Ball dissapears at timestamp: 86341
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 93731
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Orange Ball dissapears at timestamp: 96360
+
+White Ball appeares at timestamp: 7056 at quadrant: 2
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+White Ball dissapears at timestamp: 97425
+
+Green Ball appeares at timestamp: 17807 at quadrant: 4
+
+White Ball appeares at timestamp: 7056 at quadrant: 2
+
+Orange Ball dissapears at timestamp: 100454
+
+Orange Ball appeares at timestamp: 20736 at quadrant: 1
+
+Yellow Ball appeares at timestamp: 29590 at quadrant: 3
+
+White Ball dissapears at timestamp: 101453
